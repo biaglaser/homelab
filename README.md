@@ -1,6 +1,6 @@
 # Homelab
 
-My personal homelab project, built around a Raspberry Pi 5.
+My personal homelab project, built around a Raspberry Pi 5 (for now...)
 
 ## Goals
 
@@ -13,7 +13,7 @@ My personal homelab project, built around a Raspberry Pi 5.
 ## Hardware
 
 - Raspberry Pi 5
-- External USB HDD
+- External (Kingston NV3) SSD
 
 ## Repository Structure
 
